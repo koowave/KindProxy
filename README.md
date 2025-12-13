@@ -146,7 +146,7 @@ For partnership inquiries, feel free to contact us.
 
 ---
 
-## 🔍 SEO Keywords (For GitHub Indexing & Google Ranking)
+## 🔍 Keywords
 
 residential proxies
 global residential proxy
