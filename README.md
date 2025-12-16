@@ -146,6 +146,29 @@ For partnership inquiries, feel free to contact us.
 
 ---
 
+---
+
+## 🔎 Explore More
+
+Explore additional resources to learn more about KindProxy, our products, and real-world use cases:
+
+- **📘 [Documentation](https://kindproxy.gitbook.io/kindproxy-docs)**  
+  Technical guides, API references, and integration tutorials.
+
+- **📝 [Blog](https://www.kindproxy.com/blog/)**  
+  Industry insights, proxy knowledge, and product updates.
+
+- **❓ [FAQs](https://kindproxy.gitbook.io/kindproxy-docs/faq/product-questions)**  
+  Common questions about products, usage, and billing.
+
+- **🚀 [Use Cases](https://www.kindproxy.com/use-cases/)**  
+  Real-world scenarios including scraping, SEO, automation, and ad verification.
+
+- **🌍 [Global Coverage](https://www.kindproxy.com/locations)**  
+  Explore our worldwide residential IP coverage across 200+ countries.
+
+---
+
 ## 🔍 Keywords
 
 residential proxies
