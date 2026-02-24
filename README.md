@@ -77,6 +77,14 @@ Duration Options: **1h / 8h / 1d / 7d / 15d**
 
 ---
 
+### 🔹 Learn More About Static IPs
+
+<img width="1008" height="834" alt="image" src="https://github.com/user-attachments/assets/b9e1f3be-f9a1-4988-8cb6-d0cc56edba44" />
+
+To learn more about static IPs, please read: [KindProxy Static IP](https://github.com/koowave/KindProxy/blob/main/static_ip.md)
+
+---
+
 ## 🌐 Main Use Cases (High-Search-Volume SEO Scenarios)
 
 - **Web Scraping & Data Scraping**  
