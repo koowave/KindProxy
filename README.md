@@ -27,7 +27,7 @@ KindProxy is built for **high-demand proxy use cases**, including web scraping, 
 - ✅ High Anonymity & Low Block Rate  
 - ✅ Real Device IPs (Not Datacenter)  
 - ✅ Easy Integration & Fast API  
-- ✅ Flexible & Cost-Effective Pricing  
+- ✅ Flexible & Cost-Effective Pricing
 
 ---
 
@@ -50,10 +50,11 @@ All proxies use **real residential IP addresses**, not VPS or cloud servers.
 | Package | Price per GB |
 |--------|--------------|
 | 5 GB   | $0.85 / GB |
-| 10 GB  | $1.36 / GB |
-| 50 GB  | $1.11 / GB |
-| 120 GB | $0.85 / GB |
-| 260 GB | $0.94 / GB |
+| 10 GB  | $1.20 / GB |
+| 30 GB  | $1.10 / GB |
+| 100 GB | $1.00 / GB |
+| 260 GB | $0.90 / GB |
+| 500 GB | $0.80 / GB |
 
 ✅ Also available: **60 / 90 / 180 days validity**
 
@@ -68,11 +69,11 @@ Duration Options: **1h / 8h / 1d / 7d / 15d**
 
 | Duration | Price |
 |----------|--------|
-| 1 Hour | $11.90 |
-| 8 Hours | $81.60 |
-| 1 Day | $204.00 |
-| 7 Days | $1142.40 |
-| 15 Days | $1836.00 |
+| 1 Hour | $10.5 |
+| 8 Hours | $72.00 |
+| 1 Day | $180.00 |
+| 7 Days | $1008.00 |
+| 15 Days | $1620.00 |
 
 ---
 
